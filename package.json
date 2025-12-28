@@ -1,7 +1,7 @@
 {
   "name": "@lizt/llmgraph",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@10.25.0",
   "description": "将rxjs按照fbp概念，包装为节点库--并在节点库基础上允许执行flowchart.",
   "author": "masol <masol.li@gmail.com>",
